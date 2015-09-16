@@ -1,2 +1,2 @@
-sophia raji github practice assignment
+sophia github practice assignment
 modified the README
